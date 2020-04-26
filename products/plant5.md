@@ -17,8 +17,8 @@ images:
       optimized: "/images/puttanesca-1.jpg"
       fallback: "/images/puttanesca-1.jpg"
     original:
-      optimized: "/images/puttanesca.jpg"
-      fallback: "/images/puttanesca.jpg"
+      optimized: "/images/puttanesca-1.jpg"
+      fallback: "/images/puttanesca-1.jpg"
 category: entrees
 featured: true
 section: Store
