@@ -1,0 +1,51 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264.83 101.52">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #77b5fe;
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-1 {
+        opacity: 0.3;
+      }
+
+      .cls-2 {
+        opacity: 0.6;
+      }
+
+      .cls-3, .cls-4, .cls-5, .cls-6 {
+        fill: #0072bb;
+      }
+
+      .cls-3 {
+        opacity: 0.3;
+      }
+
+      .cls-4 {
+        opacity: 0.1;
+      }
+
+      .cls-5 {
+        stroke: #0072bb;
+        stroke-miterlimit: 10;
+        opacity: 0.6;
+      }
+
+      .cls-6 {
+        font-size: 45px;
+        font-family: BelloScriptPro-Regular, Bello Script Pro;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M5.18,86A51.37,51.37,0,0,1,19.83,61.89c12.87,1.28,24.25-4.5,30.55-8.71-6,4.69-15,13.73-17.73,26.36A51.09,51.09,0,0,1,5.18,86Z" transform="translate(-0.17 0.24)"/>
+  <path class="cls-2" d="M5.18,15.94s14.74-1,27.47,6.48c2.76,12.63,11.78,21.67,17.73,26.36-6.3-4.21-17.68-10-30.54-8.71C8.82,30.25,5.18,15.94,5.18,15.94Z" transform="translate(-0.17 0.24)"/>
+  <path class="cls-3" d="M.17,51C15.34,38.45,34.69,39.23,50,51,34.92,63.46,15.45,62.77.17,51Z" transform="translate(-0.17 0.24)"/>
+  <path class="cls-4" d="M36.92,101.28A38.74,38.74,0,0,1,52.31,53.92,38.71,38.71,0,0,1,36.92,101.28Z" transform="translate(-0.17 0.24)"/>
+  <path class="cls-5" d="M36.63.51A38.74,38.74,0,0,1,52,47.87,38.72,38.72,0,0,1,36.63.51Z" transform="translate(-0.17 0.24)"/>
+  <text class="cls-6" transform="translate(30.83 65.11)">Mer’s Fare</text>
+</svg>
