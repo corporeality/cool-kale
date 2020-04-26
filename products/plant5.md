@@ -7,18 +7,18 @@ price: "25"
 images:
   default:
     thumbnail:
-      optimized: "/images/plant5.webp"
-      fallback: "/images/plant5.jpg"
+      optimized: "/images/puttanesca.jpg"
+      fallback: "/images/puttanesca.jpg"
     original:
-      optimized: "/images/plant5-lg.webp"
-      fallback: "/images/plant5-lg.jpg"
+      optimized: "/images/puttanesca.jpg"
+      fallback: "/images/puttanesca.jpg"
   featured:
     thumbnail:
-      optimized: "/images/plant5-featured.webp"
-      fallback: "/images/plant5-featured.jpg"
+      optimized: "/images/puttanesca.jpg"
+      fallback: "/images/puttanesca.jpg"
     original:
-      optimized: "/images/plant5-featured-lg.webp"
-      fallback: "/images/plant5-featured-lg.jpg"
+      optimized: "/images/puttanesca.jpg"
+      fallback: "/images/puttanesca.jpg"
 category: entrees
 featured: true
 section: Store
