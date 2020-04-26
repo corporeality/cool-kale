@@ -26,6 +26,7 @@ palettes:
       active_dark: "#547567"
       dark_grey: "#273132"
       light_grey: "#ffffff"
+      white: "#ffffff"
       bg_image_primary_optimized: "/images/table.jpg"
       bg_image_primary_fallback: "/images/table.jpg"
       bg_image_secondary_optimized: "/images/leaf-light-grey.svg"
