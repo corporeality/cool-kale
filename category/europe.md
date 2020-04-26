@@ -1,9 +1,10 @@
 ---
-slug: europe
-title: Plants from Europe
+slug: sides
+title: Side Dishes
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 5
-layout: category
+
 ---
