@@ -10,7 +10,7 @@ images:
       optimized: "/images/puttanesca-1.jpg"
       fallback: "/images/puttanesca-1.jpg"
     original:
-      optimized: "/images/puttanesca.jpg"
+      optimized: "/images/puttanesca-1.jpg"
       fallback: "/images/puttanesca.jpg"
   featured:
     thumbnail:
