@@ -4,4 +4,4 @@ isHome: true
 layout: index
 
 ---
-# Freshly prepared culinary creations right to your doorstep.
+# Freshly prepared culinary creations.
