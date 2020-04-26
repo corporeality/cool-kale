@@ -2,8 +2,8 @@
   "title": "In accumsan tristique dui a viverra. ",
   "subtitle": "Lorem ipsum dolor sit",
   "image": {
-    "optimized": "images/promo.webp",
-    "fallback": "images/promo.jpg"
+    "optimized": "/images/kitchen.jpg",
+    "fallback": "/images/kitchen.jpg"
   },
   "cta": {
     "text": "Discover",

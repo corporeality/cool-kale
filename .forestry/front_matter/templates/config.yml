@@ -49,6 +49,21 @@ fields:
     - type: file
       name: fallback
       label: Fallback (JPG or PNG)
+  - name: white
+    type: field_group
+    config: {}
+    fields:
+    - name: optimized
+      type: file
+      config:
+        maxSize: 250
+      label: Optimized (WEBP or similar)
+    - name: fallback
+      type: file
+      config:
+        maxSize: 250
+      label: Fallback (JPG or PNG)
+    label: White
 - type: select
   name: palette
   label: Color Palette
