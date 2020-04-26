@@ -1,5 +1,5 @@
 ---
-slug: entree
+slug: entrees
 title: Entrees
 section: Store
 layout: category
