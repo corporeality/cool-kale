@@ -96,7 +96,7 @@
     font-weight: normal;
     font-size: $font_size_regular;
     line-height: 150%;
-    color: $color_light_grey;
+    color: $color-light;
     @include smaller-than-tablet {
       margin-bottom: 0;
       padding: 25px;
