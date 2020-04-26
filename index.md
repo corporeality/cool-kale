@@ -2,8 +2,6 @@
 title: Home
 isHome: true
 layout: index
+
 ---
-
-# Real, beautiful plants right to your door
-
- 
+# Freshly prepared culinary creations right to your doorstep.
