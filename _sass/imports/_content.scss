@@ -2,7 +2,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #77b5fe;
+    background-color: #fff;
 
     &__row {
         @include container-item-properties;
@@ -17,7 +17,7 @@
     }
 
     &__row-title {
-        color: $color_default;
+        color: $color_dark;
         margin-bottom: $spacing--unit*7;
         font-size: $font_size_large;
 
