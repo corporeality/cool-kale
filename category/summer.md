@@ -1,9 +1,10 @@
 ---
-slug: summer
-title: Summer plants
+slug: entree
+title: Entrees
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 2
-layout: category
+
 ---
