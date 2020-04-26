@@ -7,8 +7,8 @@ price: "25"
 images:
   default:
     thumbnail:
-      optimized: "/images/puttanesca.jpg"
-      fallback: "/images/puttanesca.jpg"
+      optimized: "/images/puttanesca-1.jpg"
+      fallback: "/images/puttanesca-1.jpg"
     original:
       optimized: "/images/puttanesca.jpg"
       fallback: "/images/puttanesca.jpg"
