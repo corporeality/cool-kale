@@ -10,8 +10,8 @@ logos:
     optimized: "/images/logo-1.svg"
     fallback: "/images/logo-1.svg"
   dark:
-    optimized: "/images/logolight.svg"
-    fallback: "/images/logolight.svg"
+    optimized: "/images/logolight-1.svg"
+    fallback: "/images/logolight-1.svg"
 palette: default
 palettes:
   default:
