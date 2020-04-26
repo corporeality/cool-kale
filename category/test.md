@@ -1,7 +1,0 @@
----
-layout: category
-slug: Test
-title: test
-section: Store
-
----
