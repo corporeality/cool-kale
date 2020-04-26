@@ -1,9 +1,10 @@
 ---
-slug: cactuses
-title: Cactuses
+slug: desserts
+title: Desserts
 section: Store
-menus:
+layout: category
+menu:
   categories:
     weight: 6
-layout: category
+
 ---
