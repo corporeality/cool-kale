@@ -84,14 +84,14 @@
   }
 
   &--light {
-    color: $color_light;
+    color: $color_light_grey;
     .hamburger__icon-path {
       fill: $color_light;
     }
   }
   &--light & {
     &__total-items {
-      color: $color_light;
+      color: $color_light_grey;
     }
     &__button-icon {
       svg {
