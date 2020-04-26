@@ -1,6 +1,6 @@
 ---
 slug: entrees
-title: Entrees
+title: Entrées
 section: Store
 layout: category
 menu:
