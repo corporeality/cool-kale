@@ -26,6 +26,4 @@ fields:
   config:
     required: true
 pages:
-- category/cactuses.md
-- category/europe.md
 - category/entrees.md
