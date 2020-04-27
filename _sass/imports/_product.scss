@@ -159,12 +159,12 @@
         background-color: $color_active;
         font-size: $spacing--unit*2;  
         color: white;      
-        .no-webp & {
+/*        .no-webp & {
             background-image: $background_images_product;
         }
         .webp & {
             background-image: $background_images_product_opt;
-        }
+        }*/
         background-size: auto 700%;
         background-position: center;
 
