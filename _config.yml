@@ -7,14 +7,14 @@ snipcart_css: https://cdn.snipcart.com/themes/v3.0.4/default/snipcart.css
 snipcart_api_key: NWY5Yzk1MzMtNWRjZi00ZmFiLThkN2QtYWFhMzVhOTEyNjM5NjM3MjM1MDgwNzg4MTg2Nzkw
 logos:
   light:
-    optimized: "/images/logo-2.svg"
-    fallback: "/images/logo-2.svg"
+    optimized: "/images/logo_light.svg"
+    fallback: "/images/logo_light.svg"
   dark:
-    optimized: "/images/logolight-1.svg"
-    fallback: "/images/logolight-1.svg"
+    optimized: "/images/logo_dark.svg"
+    fallback: "/images/logo_dark.svg"
   white:
-    optimized: "/images/logo_white.svg"
-    fallback: "/images/logo_white.svg"
+    optimized: "/images/logo_white-2.svg"
+    fallback: "/images/logo_white-2.svg"
 palette: default
 palettes:
   default:
